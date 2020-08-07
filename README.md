@@ -1,15 +1,15 @@
-### Hello! 😁
+### Olá! 😁
 
-My name is Juan Junger, from Brazil. 
+Meu nome é Juan Junger, natural do Brasil.
 
-Undergraduating in analysis and systems development, I have been part of project design, requirements gathering, documentation, architecture and development, testing and maintenance.
+Graduando em análise e desenvolvimento de sistemas, atuo na concepção de um projeto através do levantamento de requisitos, UI, UX, prototipação, documentação, arquitetura, testes, desenvolvimento e manutenção. 
 
-Passionate about technology, I work as fullstack developer and have experience in game design.
+Apaixonado por tecnologia, trabalho como desenvolvedor fullstack e possuo experiência com jogos digitais.
 
-Always committed to seeking and acquiring new knowledge, I develop my skills in each new situation and, with that, I improve myself more and more.
+Empenhado na busca pelo conhecimento constante, sou adepto da seguinte frase: "Quanto mais eu sei, mais eu sou."
 
-Currently focused on studies in React and Node developing practical projects.
+Atualmente focado nos estudos de React e Node desenvolvendo projetos práticos.
 
-Would you like to contact me?
+Gostaria de entrar em contato?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-junger)](https://www.linkedin.com/in/juan-junger) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/juanjunger)](https://instagram.com/juanjunger) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://bit.ly/Fale-com-o-Juan)](https://bit.ly/Fale-com-o-Juan)
